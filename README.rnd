@@ -1,0 +1,15 @@
+# Treinamento descomplicando o Ansible
+
+Projeto para a  instalação de um Cluster Kubernates utilizando o Ansible  + AWS.
+
+## Fazes do Projeto
+...
+
+- Provisioning => Criar as instancia para o Cluster.
+- Install_K8s  => Criação do Cluster, etc.
+- Deploy_app   => Deply de uma aplicação exemplo.
+- Extra        => Segredo
+...
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
