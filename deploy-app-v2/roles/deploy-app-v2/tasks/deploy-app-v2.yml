@@ -1,7 +1,7 @@
 - name: Instalando o pip
   apt:
     name: 
-      - phyton-pip
+      - python-pip
 - name: Instalando dependencias dos modulos do k8s
   pip: 
     name:
